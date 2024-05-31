@@ -1,0 +1,42 @@
+html{
+    background-color: grey;
+}
+
+#formulario {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+#nom{
+    padding: 10px;
+}
+
+#ap{
+    padding: 10px;
+}
+
+#age{
+    padding: 10px;
+}
+
+#alt{
+    padding: 10px;
+}
+
+#mail{
+    padding: 10px;
+}
+
+button{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+p{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
