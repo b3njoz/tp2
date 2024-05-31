@@ -6,10 +6,10 @@ function area() {
     if (ladoA > ladoC){
         const areaTriangulo = (ladoB * (ladoA-ladoC)) / 2;
         const areaRectangulo = ladoB * ladoC;
-        const areaTotal = areaTriangulo + areaRectangulo
-        alert("El area del terreno es: " + areaTotal)
+        const areaTotal = areaTriangulo + areaRectangulo;
+        alert("El area del terreno es: " + areaTotal);
     }
     else {
-        alert("El lado c no puede ser mayor al lado A")
+        alert("El lado c no puede ser mayor al lado A");
     }
 }
